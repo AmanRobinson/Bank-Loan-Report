@@ -4,6 +4,21 @@ A 3-page interactive Power BI dashboard built to analyze a bank's loan portfolio
  
 ---
  
+## 📸 Dashboard Screenshots
+ 
+### Page 1 — Summary
+![Summary Dashboard](screenshots/summary.png)
+ 
+### Page 2 — Overview
+![Overview Dashboard](screenshots/overview.png)
+ 
+### Page 3 — Details
+![Details Dashboard](screenshots/details.png)
+ 
+> 📂 **To add screenshots:** Create a `screenshots/` folder in your repo root, upload your 3 images as `summary.png`, `overview.png`, and `details.png`, and the images above will auto-render on GitHub.
+ 
+---
+ 
 ## 📊 Project Overview
  
 | Metric | Value |
@@ -90,3 +105,4 @@ Data Analyst | Ex-EY SAP Intern | MCA — Amity University
 ---
  
 > *This project demonstrates end-to-end loan portfolio analysis using SQL for data preparation and Power BI for interactive visualization — relevant to BFSI/NBFC domain analytics.*
+ 
