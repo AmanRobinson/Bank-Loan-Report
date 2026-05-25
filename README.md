@@ -7,7 +7,7 @@ A 3-page interactive Power BI dashboard built to analyze a bank's loan portfolio
 ## 📸 Dashboard Screenshots
  
 ### Page 1 — Summary
-![Summary Dashboard](screenshots/summary.png)
+![Summary Dashboard](screenshots/summary.jpeg)
  
 ### Page 2 — Overview
 ![Overview Dashboard](screenshots/overview.png)
